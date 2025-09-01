@@ -1,0 +1,10 @@
+1.Difference between var, let, and const?
+2.Difference between == and ===?
+3.What are Promises and async/await?
+4.What is Event-driven architecture in Node.js?
+5.Difference between synchronous and asynchronous in Node.js?
+6.How does Node.js handle multiple requests at the same time?
+7.Difference between functional component and class component?
+8.What are React Hooks? (useState, useEffect etc.)?
+9.Explain Virtual DOM and how it works?
+10.What is the difference between REST API and GraphQL?
